@@ -1,7 +1,5 @@
 # MADAR: Efficient Continual Learning for Malware Analysis with Diversity-Aware Replay
 
-``This repository contains the code and the datasets for a submitted paper in a conference.``
-
 
 
 ## Dependencies & Required Packages
@@ -80,11 +78,11 @@ Please note that, these datasets are collected as ``.apk`` files from AndroZoo r
 ## EMBER Experiments
 
 
-
+<!-- 
 <div style="text-align: center;">
     <img src="repo_imgs/EMBER_Results.png" alt="EMBER Results"  width="700" height="500" />
 </div>
-
+ -->
 
 ### EMBER Domain
 
@@ -114,10 +112,10 @@ Please note that, these datasets are collected as ``.apk`` files from AndroZoo r
 
 ## AZ Experiments
 
-
+<!-- 
 <div style="text-align: center;">
     <img src="repo_imgs/AZ_Results.png" alt="EMBER Results"  width="700" height="500" />
-</div>
+</div> -->
 
 
 ### AZ Domain
