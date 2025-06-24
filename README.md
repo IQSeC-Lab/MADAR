@@ -35,6 +35,8 @@ Alternatively, you can use the exact `conda environment` that we have used for o
 
 ## Datasets
 
+### EMBER-Domain and AZ-Domain datasets are shared in [https://doi.org/10.57967/hf/5859](HuggingFace)
+
 ### EMBER
 
 For EMBER experiments, we have used the dataset provided by Rahman et al. [1].
