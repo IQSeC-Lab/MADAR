@@ -4,6 +4,17 @@
 
 [Preprint](https://arxiv.org/abs/2502.05760)
 
+#### Reference Format
+```
+@inproceedings{madar,
+  title={{MADAR}: Efficient Continual Learning for Malware Analysis with Distribution-Aware Replay},
+  author={Rahman, Mohammad Saidur and Coull, Scott and Yu, Qi and Wright, Matthew},
+  booktitle={Conference on Applied Machine Learning in Information Security (CAMLIS) },
+  year={2025},
+  publisher={Proceedings of Machine Learning Research (PMLR)}
+}
+```
+
 ## Dependencies & Required Packages
 
 Please make sure you have all the dependencies available and installed.
