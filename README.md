@@ -1,6 +1,8 @@
-# MADAR: Efficient Continual Learning for Malware Analysis with Diversity-Aware Replay
+# MADAR: Efficient Continual Learning for Malware Analysis with Distribution-Aware Replay
 
+#### Accepted at the Conference on Applied Machine Learning in Information Security (CAMLIS) 2025.
 
+[Preprint](https://arxiv.org/abs/2502.05760)
 
 ## Dependencies & Required Packages
 
