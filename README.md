@@ -2,7 +2,7 @@
 
 #### Accepted at the Conference on Applied Machine Learning in Information Security (CAMLIS) 2025.
 
-[Preprint](https://arxiv.org/abs/2502.05760)
+[Read the Paper](https://proceedings.mlr.press/v299/rahman25a.html)
 
 #### Reference Format
 ```
