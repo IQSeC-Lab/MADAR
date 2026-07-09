@@ -23,7 +23,7 @@ Please make sure you have all the dependencies available and installed.
 - CentOS Linux 7/Ubuntu 22.04
 - Python3-venv/ conda
 - CUDA Version: 12.2 
-- Python Version: 3.9.X
+- Python Version: 3.10+
 
 -- Please install the required packages using the following command:
 `pip install -r requirements.txt`
@@ -31,10 +31,10 @@ Please make sure you have all the dependencies available and installed.
 We suggest the users to create a `python virtual environment` or `conda environment` and install the required packages.
 
 ```
-conda create -n MADAR python=3.9
+conda create -n MADAR python=3.10
 conda activate MADAR
 conda install numpy=1.25.2
-conda install pytorch=2.0.1 torchvision=0.15.2 cudatoolkit=12.2 -c pytorch
+conda install pytorch=2.12.1 torchvision=0.27.1 pytorch-cuda=12.4 -c pytorch -c nvidia
 ```
 
 Alternatively, you can use the exact `conda environment` that we have used for our experiments. 
